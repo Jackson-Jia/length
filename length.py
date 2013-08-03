@@ -69,5 +69,3 @@ if __name__ == "__main__":
     length_expression = get_expression()
     length_result = result(length_expression, length_rule)
     output(length_result)
-    
-        
