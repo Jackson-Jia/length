@@ -69,5 +69,8 @@ if __name__ == "__main__":
     length_expression = get_expression()
     length_result = result(length_expression, length_rule)
     output(length_result)
+<<<<<<< HEAD
     
         
+=======
+>>>>>>> 87546a38ae30ddfa86e09f668d7ac7edad299abb
