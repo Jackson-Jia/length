@@ -1,0 +1,5 @@
+1、长度单位转换和计算工具程序采用Python编写；
+
+2、运行时需要输入文件（input.txt）和源程序（length.py）在同一个目录下；
+
+3、在安装有Python解释器的环境中，双击length.py即可运行，产生output.txt输出文件
